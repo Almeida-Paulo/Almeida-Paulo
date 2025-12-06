@@ -8,7 +8,9 @@
 **Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/paulo-almeida-854142162/)
 
 🔭 I’m currently working as web development freelancer. Also implementing AI solutions for content creation automations for news blogs
+
 🌱 I’m currently learning Web3 tecnologies like Solidity, MOVE
+
 🤝 I’m looking to collaborate on Web3 & Blockchain projects
 
 ### 💡 Skills & Technologies
