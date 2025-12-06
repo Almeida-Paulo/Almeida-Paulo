@@ -1,22 +1,21 @@
 ### Hello! I'm Paulo Almeida 👋 |💻 Web3 & Blockchain Developer •
 
-### 📌 About Me
-
-**Place:** Brazil  
-**Gender:** Male  
-**Location:** Teresina, Piauí  
-**Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/paulo-almeida-854142162/)
-
 <a href="#">
     <img 
-         src="https://github.com/Almeida-Paulo/Almeida-Paulo/blob/main/assets/sol-ascii-art.gif"
+         src="https://github.com/Almeida-Paulo/Almeida-Paulo/blob/main/assets/sol-ascii-art-p.gif"
          align="right" 
-         width="275px" 
-         height="95px" 
+         width="195px" 
+         height="195px" 
          title="Sol" 
          alt="Sol"
     >
 </a>
+
+### 📌 About Me
+**Place:** Brazil  
+**Gender:** Male  
+**Location:** Teresina, Piauí  
+**Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/paulo-almeida-854142162/)
 
 🔭 I’m currently working as web development freelancer. Also implementing AI solutions for content creation automations for news blogs
 
@@ -25,7 +24,6 @@
 🤝 I’m looking to collaborate on Web3 & Blockchain projects
 
 ### 💡 Skills & Technologies
-
 <div align="center">
   <img src="https://img.shields.io/badge/php-FFFFFF?style=for-the-badge&logo=php&logoColor=FFFFFF&color=777BB4" alt="PHP">
   <img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python&logoColor=FFFFFF&color=3776AB" alt="Python">
@@ -40,7 +38,6 @@
 </div>
 
 ### 🚀 Projects
-
 #### **📌 Some Works & Portfolio**  
 **Sites de notícias:**
 - [[Piauí Saúde News](https://piauisaudenews.com/)]
