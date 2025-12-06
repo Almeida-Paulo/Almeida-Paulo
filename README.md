@@ -23,4 +23,12 @@
 ### 🚀 Projects
 
 #### **📌 Some Works & Portfolio**  
-- **Piauí Saúde News:** [[Piauí Saúde News](https://piauisaudenews.com/)]
+**Sites de notícias:**
+- [[Piauí Saúde News](https://piauisaudenews.com/)]
+- [[FutSim](https://futsim.com.br/)]
+- [[Diário da Sociedade](https://diariodasociedade.com/)]
+
+**Sites Institucionais:**
+- [[BrVox](https://institutobrvox.com.br/)]
+- [[ABEPI](https://abepi.com.br/)]
+- [[Galaxy](https://institutogalaxy.com/)]
