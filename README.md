@@ -2,7 +2,7 @@
 
 ### 📌 About Me
 
-**Place:** Brazil 
+**Place:** Brazil  
 **Gender:** Male  
 **Location:** Teresina, Piauí  
 **Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/paulo-almeida-854142162/)
