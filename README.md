@@ -9,7 +9,7 @@
 
 🔭 I’m currently working as web development freelancer. Also implementing AI solutions for content creation automations for news blogs
 
-🌱 I’m currently learning Web3 tecnologies like Solidity, MOVE
+🌱 Learning Web3 tecnologies like Solidity and MOVE
 
 🤝 I’m looking to collaborate on Web3 & Blockchain projects
 
