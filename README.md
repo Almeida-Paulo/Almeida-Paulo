@@ -13,6 +13,17 @@
 
 🤝 I’m looking to collaborate on Web3 & Blockchain projects
 
+<a href="#">
+    <img 
+         src="https://github.com/" 
+         align="right" 
+         width="275px" 
+         height="95px" 
+         title="Sol" 
+         alt="Sol"
+    >
+</a>
+
 ### 💡 Skills & Technologies
 
 <div align="center">
