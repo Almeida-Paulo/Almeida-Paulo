@@ -10,14 +10,17 @@
 ### 💡 Skills & Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/php-FFFFFF?style=for-the-badge&logo=php&logoColor=FFFFFF&color=777BB4" alt="PHP">
+  <img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python&logoColor=FFFFFF&color=3776AB" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/typescript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=3178C6" alt="Typescript">
+<img src="https://img.shields.io/badge/solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=FFFFFF&color=363636" alt="Solidity">
   <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&color=000000" alt="Rust" >
+  <img src="https://img.shields.io/badge/Commonlisp-000000?style=for-the-badge&logo=commonlisp&color=000000" alt="LISP">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/wordpress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=FFFFFF&color=21759B" alt="Wordpress">
+  <img src="https://img.shields.io/badge/sui-FFFFFF?style=for-the-badge&logo=sui&logoColor=FFFFFF&color=4DA2FF" alt="Sui">
+  
   
 </div>
 
