@@ -8,7 +8,7 @@
 **Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/paulo-almeida-854142162/)
 
 ### 💡 Skills & Technologies
-
+![Static Badge](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&color=000000)
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  
 </div>
 
 ### 🚀 Projects
