@@ -9,7 +9,7 @@
 
 <a href="#">
     <img 
-         src="https://github.com/assets/sol-ascii-art.webp"
+         src="https://github.com/Almeida-Paulo/Almeida-Paulo/blob/main/assets/sol-ascii-art-p.gif"
          align="right" 
          width="275px" 
          height="95px" 
