@@ -7,6 +7,10 @@
 **Location:** Teresina, Piauí  
 **Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/paulo-almeida-854142162/)
 
+🔭 I’m currently working as web development freelancer. Also implementing AI solutions for content creation automations for news blogs
+🌱 I’m currently learning Web3 tecnologies like Solidity, MOVE
+🤝 I’m looking to collaborate on Web3 & Blockchain projects
+
 ### 💡 Skills & Technologies
 
 <div align="center">
@@ -20,8 +24,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/wordpress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=FFFFFF&color=21759B" alt="Wordpress">
   <img src="https://img.shields.io/badge/sui-FFFFFF?style=for-the-badge&logo=sui&logoColor=FFFFFF&color=4DA2FF" alt="Sui">
-  
-  
 </div>
 
 ### 🚀 Projects
