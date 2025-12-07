@@ -17,7 +17,7 @@
 **Location:** Teresina, Piauí  
 **Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/paulo-almeida-854142162/)
 
-🔭 I’m currently working as a freelancer web developer. Also implementing AI solutions for automation of content creation for news blogs
+🔭 I am currently working as a freelance web developer and implementing AI solutions for automating content creation for news blogs
 
 🌱 Learning Web3 tecnologies like Solidity and MOVE
 
