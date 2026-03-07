@@ -1,4 +1,4 @@
-### Hello! I'm Paulo Almeida 👋 |💻 Web3 & Blockchain Developer •
+### Hello! I'm Paulo Almeida 👋 |💻 AI Automations and Web3 & Blockchain Developer •
 
 <a href="#">
     <img 
